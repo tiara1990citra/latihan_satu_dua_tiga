@@ -6,7 +6,7 @@
         <div class="row mb-4">
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\pergikesekolah.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Umum</h5>
                         <p class="card-text">Penerbit</p>
@@ -16,7 +16,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\malaikatjatuh.jpg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Fiksi</h5>
                         <p class="card-text">Penerbit</p>
@@ -26,7 +26,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\filosofi.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Non-Fiksi</h5>
                         <p class="card-text">Penerbit</p>
@@ -36,7 +36,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\Cover-Buku-Sejarah-Runtuhnya-Sriwijaya-dan-Majapahit.webp" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Pelajaran</h5>
                         <p class="card-text">Penerbit</p>
@@ -46,7 +46,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\panduan rt rw.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Referensi</h5>
                         <p class="card-text">Penerbit</p>
@@ -60,7 +60,7 @@
         <div class="row mb-4">
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\sejarahdunia.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Sejarah</h5>
                         <p class="card-text">Penerbit</p>
@@ -70,7 +70,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\sains.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Sains</h5>
                         <p class="card-text">Penerbit</p>
@@ -80,7 +80,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\sastra.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Sastra</h5>
                         <p class="card-text">Penerbit</p>
@@ -90,7 +90,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\tekno.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Teknologi</h5>
                         <p class="card-text">Penerbit</p>
@@ -100,7 +100,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                    <img src="\agama.jpeg" class="card-img-top" alt="Sampul Buku">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">Buku Agama</h5>
                         <p class="card-text">Penerbit</p>
@@ -114,7 +114,7 @@
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 g-4">
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\harrypotter.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Harry Potter</h5>
                     <p class="card-text">J.K. Rowling</p>
@@ -124,7 +124,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\laskar.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Laskar Pelangi</h5>
                     <p class="card-text">Andrea Hirata</p>
@@ -134,7 +134,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\bumimanusia.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Bumi Manusia</h5>
                     <p class="card-text">Pramoedya Ananta Toer</p>
@@ -144,7 +144,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\dilan.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Dilan 1990</h5>
                     <p class="card-text">Pidi Baiq</p>
@@ -154,7 +154,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\ayatayat.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Ayat-Ayat Cinta</h5>
                     <p class="card-text">Habiburrahman El Shirazy</p>
@@ -164,7 +164,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\5negara.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Negeri 5 Menara</h5>
                     <p class="card-text">Ahmad Fuadi</p>
@@ -174,7 +174,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\sangpemimpin.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Sang Pemimpi</h5>
                     <p class="card-text">Andrea Hirata</p>
@@ -184,7 +184,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\5cm.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">5 cm</h5>
                     <p class="card-text">Donny Dhirgantoro</p>
@@ -194,7 +194,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\perahhu.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Perahu Kertas</h5>
                     <p class="card-text">Dee Lestari</p>
@@ -204,7 +204,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="https://via.placeholder.com/150x200" class="card-img-top" alt="Sampul Buku">
+                <img src="\ronggeng.jpeg" class="card-img-top" alt="Sampul Buku">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Ronggeng Dukuh Paruk</h5>
                     <p class="card-text">Ahmad Tohari</p>

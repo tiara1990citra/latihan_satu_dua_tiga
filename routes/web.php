@@ -52,3 +52,5 @@ Route::get('/detailpeminjaman', function () {
     return view('HalamanUtama.DetailPeminjaman');
 });
 // End Halaman Utama
+
+
