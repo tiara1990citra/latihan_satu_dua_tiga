@@ -24,36 +24,19 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                @foreach ($siswa as $s)
                                 <tr>
-                                    <th scope="row">1</th>
-                                    <td>Budi Santoso</td>
-                                    <td>1234567890</td>
-                                    <td>XI IPA 1</td>
+                                    <td>{{ $s->nisn }}</td>
+                                    <td>{{ $s->nama }}</td>
+                                    <td>{{ $s->alamat }}</td>
+                                    <td>{{ $s->no_telp }}</td>
+                                    <td>{{ $s->kode_kelas }}</td>
                                     <td>
                                         <a href="#" class="btn btn-sm btn-info">Edit</a>
                                         <a href="#" class="btn btn-sm btn-danger">Hapus</a>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <th scope="row">2</th>
-                                    <td>Siti Nurhaliza</td>
-                                    <td>2345678901</td>
-                                    <td>X IPS 2</td>
-                                    <td>
-                                        <a href="#" class="btn btn-sm btn-info">Edit</a>
-                                        <a href="#" class="btn btn-sm btn-danger">Hapus</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">3</th>
-                                    <td>Ahmad Dhani</td>
-                                    <td>3456789012</td>
-                                    <td>XII IPA 3</td>
-                                    <td>
-                                        <a href="#" class="btn btn-sm btn-info">Edit</a>
-                                        <a href="#" class="btn btn-sm btn-danger">Hapus</a>
-                                    </td>
-                                </tr>
+                                @endforeach
                             </tbody>
                         </table>
                     </div>

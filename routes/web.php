@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\Datasiswa;
 use Illuminate\Support\Facades\Route;
+use SebastianBergmann\CodeCoverage\Report\Html\Dashboard;
 
 // Dashboard
 Route::get('/dashboard', function () {
@@ -25,9 +27,7 @@ Route::get('/masterdata/buku', function () {
     return view('Dashboard.MasterData.tabelbuku');
 });
 
-Route::get('/masterdata/siswa', function () {
-    return view('Dashboard.MasterData.tabelsiswa');
-});
+Route::get('/masterdata/siswa', [Datasiswa::class, "Tampilkan"]);
 
 // Transaksi
 Route::get('/transaksi/peminjaman', function () {
@@ -52,5 +52,13 @@ Route::get('/detailpeminjaman', function () {
     return view('HalamanUtama.DetailPeminjaman');
 });
 // End Halaman Utama
+
+//////////
+
+Route::get('/'[Datasiswa::class,'Tampilkan']);
+
+Route::get('/tabelsiswa',[Datasiswa::class,'tabelsiswa']);
+
+Route::get('/tabelsiswa',[Datasiswa::class,'tabelsiswa']);
 
 
