@@ -10,7 +10,7 @@
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center mb-3">
                         <h5 class="card-title">Daftar Siswa</h5>
-                        <a href="#" class="btn btn-primary">Tambah Siswa</a>
+                        <a href="/tambah" class="btn btn-primary">Tambah Siswa</a>
                     </div>
                     <div class="table-responsive">
                         <table class="table table-striped table-hover">
